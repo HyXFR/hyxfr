@@ -2,7 +2,7 @@
 
 I'm HyXFR, **a young french developer**. I like very well informatic since 2020. So, [I'm a Python, Java and Web developer]. *You can ask me questions by discord : HyXFR#1231*.
 
-![HyXFR stats](https://github-readme-stats.vercel.app/api?username=baptiste0928&hide=prs&count_private=true&show_icons=true&include_all_commits=true)
+![HyXFR stats](https://github-readme-stats.vercel.app/api?username=hyxfr&hide=prs&count_private=true&show_icons=true&include_all_commits=true)
 
 ####🤗 Projects
 I'm actually working on a [small anti-virus project by terminal, in Python and bash]. This project was been in open-source in a few moments, look at my projects 🤗
@@ -10,7 +10,7 @@ I'm actually working on a [small anti-virus project by terminal, in Python and b
 #### 🌱 My skills
 I mainly master the Python language, but I'm well at Java, HTML and CSS. I'm not very good in JavaScript and PHP, but I can create some websites. I'm familiar with [discord.py](https://github.com/Rapptz/discord.py).
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baptiste0928&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyxfr&layout=compact)
 
 #### 💬 Ask me
 - For **help to a python logicial.**
