@@ -4,7 +4,7 @@ I'm HyXFR, **a young french developer**. I like very well informatic since 2020.
 
 ![HyXFR stats](https://github-readme-stats.vercel.app/api?username=hyxfr&hide=prs&count_private=true&show_icons=true&include_all_commits=true)
 
-####🤗 Projects
+#### 🤗 Projects
 I'm actually working on a [small anti-virus project by terminal, in Python and bash]. This project was been in open-source in a few moments, look at my projects 🤗
 
 #### 🌱 My skills
