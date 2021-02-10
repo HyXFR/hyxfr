@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I'm HyXFR, **a young french developer**. I like very well informatic since 2020. So, [I'm a Python, Java and Web developer]. *You can ask me questions by discord : HyXFR#1231*.
+I'm HyXFR, **a young french developer and a minecraft player**. I like very well informatic since 2020. So, [I'm a Python, Java and Web developer].
+Also, in minecraft domain, I'm a screenshare help tool maker, I'm make some tools for help a moderator to verify a suspect for found his cheats (in minecraft).
+*You can ask me questions by discord : HyXFR#1231*.
 
 ![HyXFR stats](https://github-readme-stats.vercel.app/api?username=hyxfr&hide=prs&count_private=true&show_icons=true&include_all_commits=true)
 
@@ -9,6 +11,7 @@ I'm actually working on a [small anti-virus project by terminal, in Python and b
 
 #### 🌱 My skills
 I mainly master the Python language, but I'm well at Java, HTML and CSS. I'm not very good in JavaScript and PHP, but I can create some websites. I'm familiar with [discord.py](https://github.com/Rapptz/discord.py).
+Also, I'm a minecraft player, I saw how to verify a suspect for found his cheats.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyxfr&layout=compact)
 
