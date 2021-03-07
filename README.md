@@ -7,7 +7,8 @@ Also, in minecraft domain, I'm a screenshare help tool maker, I'm make some tool
 ![HyXFR stats](https://github-readme-stats.vercel.app/api?username=hyxfr&hide=prs&count_private=true&show_icons=true&include_all_commits=true)
 
 #### 🤗 Projects
-I'm actually working on a [small anti-virus project by terminal, in Python and bash]. This project was been in open-source in a few moments, look at my projects 🤗
+I'm actually working on a [small anti-virus project by terminal, in Python and bash]. This project was been in open-source in a few moments.
+I'm also a contributor of the Protect Discord Bot, I have maked their documentation.
 
 #### 🌱 My skills
 I mainly master the Python language, but I'm well at Java, HTML and CSS. I'm not very good in JavaScript and PHP, but I can create some websites. I'm familiar with [discord.py](https://github.com/Rapptz/discord.py).
