@@ -7,7 +7,7 @@ Also, in minecraft domain, I'm a screenshare help tool maker, I'm make some tool
 ![HyXFR stats](https://github-readme-stats.vercel.app/api?username=hyxfr&hide=prs&count_private=true&show_icons=true&include_all_commits=true)
 
 #### 🤗 Projects
-I'm actually working on a [small anti-virus project by terminal, in Python and bash]. This project was been in open-source in a few moments.
+I'm actually working on a minecraft map, a "server" in singleplayer, you don't need to have connexion or friends to play to it, but it have PvE ! I work too on anti-raid Discord Bot, for helping users who want to repair a Discord Server, [but not secure it].
 I'm also a contributor of the Protect Discord Bot, I have maked their documentation.
 
 #### 🌱 My skills
